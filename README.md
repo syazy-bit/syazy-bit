@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @syazy-bit
-- 👀 I’m interested in web developing , autommated tools and machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+-  Hi, I’m @syazy-bit
+-  I’m interested in web developing , autommated tools and machine learning
+-  I’m currently learning python
+-  How to reach me ...Insta- @obcwncl
+-  Pronouns: he/him
+  
 
 <!---
 syazy-bit/syazy-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
